@@ -1,0 +1,61 @@
+
+
+body{
+    background-color: darkcyan;
+}
+div{
+    height: 200px;
+    width: 50%;
+}
+h1{
+    text-align: center;
+    border-style: solid;
+    border-radius: 30px 20px 20px 30px;
+    border-color: blue;
+    background-color: aliceblue;
+
+}
+
+#tekstboks{
+
+height: 250px;
+width: 500px;
+margin: auto;
+border-color: darksalmon;
+border-style: solid;
+border-radius: 30px 30px 30px 30px;
+background-color: aliceblue;
+
+
+
+}
+
+img{
+    height: 175px;
+    width: 175px;
+    border-radius: 30px 30px 30px 30px;
+    border-style: solid;
+    border-color: aliceblue;
+
+}
+#bond{
+text-align: right;
+margin-left: 960px;
+}
+a{
+    text-align: center;
+    align-self: center;
+}
+h2{
+text-align: center;
+border-style: solid;
+border-color: blue;
+border-radius: 30px 20px 20px 30px;
+background-color: aliceblue;
+margin-left: 500px;
+margin-right: 500px;
+
+}
+a:link{
+    https://www.un.org/en/
+}
